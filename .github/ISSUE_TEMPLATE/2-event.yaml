@@ -1,7 +1,7 @@
 name: Событие
 description: Организация мероприятий и событий 
-title: "[Enhancement]: "
-labels: ["enhancement"]
+title: "[Событие]: "
+labels: ["event"]
 body:
   - type: markdown
     attributes:
